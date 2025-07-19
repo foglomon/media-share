@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AVVERSION/media-share.git"
+    "url": "git+https://github.com/foglomon/media-share.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/AVVERSION/media-share/issues"
+    "url": "https://github.com/foglomon/media-share/issues"
   },
-  "homepage": "https://github.com/AVVERSION/media-share#readme",
+  "homepage": "https://github.com/foglomon/media-share#readme",
   "dependencies": {
     "express": "^5.1.0",
     "multer": "^2.0.2",
